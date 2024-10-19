@@ -1,0 +1,185 @@
+Date,Customer Name,Customer Location,Customer Gender,Service,Size,Total Amount
+2024-08-15,John Doe,Nairobi,Male,Dry Cleaning,,500
+2024-08-15,Jane Smith,Kisumu,Female,Duvet/Blanket Cleaning,Large,500
+2024-08-15,Emily Brown,Mombasa,Female,Clothes Cleaning,Medium,400
+2024-08-16,Michael Johnson,Nairobi,Male,Duvet/Blanket Cleaning,Small,200
+2024-08-16,Susan Lee,Meru,Female,Clothes Cleaning,Large,600
+2024-08-17,David Wilson,Nyeri,Male,Dry Cleaning,,500
+2024-08-17,Linda Green,Thika,Female,Duvet/Blanket Cleaning,Medium,350
+2024-08-18,Lucy Clarke,Chuka Town,Female,Dry Cleaning,Large,490
+2024-08-18,Linda Green,Slaughter,Male,Dry Cleaning,Medium,790
+2024-08-25,Linda Green,Gate F,Female,Clothes Cleaning,,423
+2024-08-25,Emma Scott,Marine,Male,Dry Cleaning,Small,535
+2024-08-25,Henry Adams,Tumaini,Male,Dry Cleaning,,434
+2024-08-22,John Doe,Lowlands,Female,Clothes Cleaning,Medium,699
+2024-08-22,Anna White,Ndagani Market,Female,Clothes Cleaning,Medium,774
+2024-08-22,Peter Stone,Tumaini,Male,Clothes Cleaning,Small,784
+2024-08-22,Fiona Blake,Gate A,Male,Duvet/Blanket Cleaning,Medium,276
+2024-08-23,Tom Wright,Gate A,Female,Dry Cleaning,Large,243
+2024-08-23,Henry Adams,Kibumbumbu,Male,Duvet/Blanket Cleaning,Large,496
+2024-08-23,Sarah Parker,Lowlands,Male,Dry Cleaning,Small,720
+2024-08-23,David Wilson,Tumaini,Female,Clothes Cleaning,Small,718
+2024-08-23,Linda Green,Chuka Town,Male,Clothes Cleaning,Medium,481
+2024-08-27,Michael Johnson,Chuka Town,Male,Duvet/Blanket Cleaning,Small,459
+2024-08-27,Fiona Blake,Royals,Male,Duvet/Blanket Cleaning,Medium,249
+2024-08-27,Emma Scott,Tumaini,Male,Dry Cleaning,,444
+2024-08-31,Oscar Bell,Gate A,Male,Duvet/Blanket Cleaning,Medium,411
+2024-08-31,Linda Green,Gate A,Male,Dry Cleaning,Large,263
+2024-08-31,Emma Scott,Ndagani Market,Female,Clothes Cleaning,Medium,736
+2024-08-30,Henry Adams,Lowlands,Male,Dry Cleaning,Medium,391
+2024-08-30,Sam Harris,Tumaini,Male,Dry Cleaning,Large,563
+2024-08-30,John Doe,Kibumbumbu,Male,Duvet/Blanket Cleaning,,452
+2024-08-30,James Black,Marine,Female,Dry Cleaning,Small,200
+2024-08-26,Emma Scott,Marine,Male,Duvet/Blanket Cleaning,,388
+2024-08-26,Sam Harris,Kibumbumbu,Female,Duvet/Blanket Cleaning,Large,725
+2024-08-26,George Hall,Gate A,Male,Duvet/Blanket Cleaning,Large,390
+2024-08-26,Laura King,Tumaini,Male,Duvet/Blanket Cleaning,Medium,685
+2024-08-26,David Wilson,Lowlands,Male,Dry Cleaning,Medium,222
+2024-09-07,Chris Martin,Royals,Male,Duvet/Blanket Cleaning,Large,250
+2024-09-07,Rachel Green,Ndagani Market,Male,Clothes Cleaning,Medium,743
+2024-09-07,Amy Young,Lowlands,Female,Clothes Cleaning,Small,500
+2024-09-07,George Hall,Kibumbumbu,Female,Duvet/Blanket Cleaning,Medium,750
+2024-09-02,Linda Green,Kibumbumbu,Female,Clothes Cleaning,Large,690
+2024-09-02,Tom Wright,Ndagani Market,Male,Duvet/Blanket Cleaning,Medium,789
+2024-09-05,Lucy Clarke,Lowlands,Female,Duvet/Blanket Cleaning,Small,566
+2024-09-05,Emily Brown,Slaughter,Female,Clothes Cleaning,Small,640
+2024-09-05,Henry Adams,Marine,Female,Dry Cleaning,Small,301
+2024-09-13,Anna White,Tumaini,Male,Dry Cleaning,Large,599
+2024-09-13,James Black,Royals,Male,Clothes Cleaning,Large,551
+2024-09-13,Tom Wright,Lowlands,Male,Clothes Cleaning,,381
+2024-09-13,Oscar Bell,Kibumbumbu,Male,Duvet/Blanket Cleaning,,243
+2024-09-13,Chris Martin,Marine,Female,Dry Cleaning,Small,302
+2024-09-12,George Hall,Marine,Female,Duvet/Blanket Cleaning,Large,629
+2024-09-14,Jane Smith,Chuka Town,Male,Dry Cleaning,Small,688
+2024-09-14,Linda Green,Gate F,Male,Clothes Cleaning,Small,552
+2024-09-14,Sarah Parker,Tumaini,Female,Duvet/Blanket Cleaning,Large,444
+2024-09-14,James Black,Chuka Town,Female,Duvet/Blanket Cleaning,Small,716
+2024-09-14,George Hall,Gate A,Female,Duvet/Blanket Cleaning,,547
+2024-09-22,Susan Lee,Lowlands,Female,Dry Cleaning,Medium,653
+2024-09-22,John Doe,Tumaini,Male,Dry Cleaning,,485
+2024-09-22,Sam Harris,Royals,Male,Duvet/Blanket Cleaning,,257
+2024-09-20,David Wilson,Gate A,Female,Duvet/Blanket Cleaning,Medium,243
+2024-09-17,James Black,Gate F,Female,Clothes Cleaning,,313
+2024-09-17,Chris Martin,Royals,Male,Dry Cleaning,Medium,798
+2024-09-17,Lucy Clarke,Royals,Female,Dry Cleaning,,402
+2024-09-25,Emily Brown,Kibumbumbu,Female,Clothes Cleaning,Large,353
+2024-09-25,Peter Stone,Gate A,Female,Duvet/Blanket Cleaning,,574
+2024-09-25,Lucy Clarke,Slaughter,Female,Clothes Cleaning,,446
+2024-09-25,Chris Martin,Tumaini,Male,Dry Cleaning,Large,208
+2024-09-25,David Wilson,Ndagani Market,Male,Clothes Cleaning,,682
+2024-09-23,Nick Hughes,Royals,Male,Clothes Cleaning,Medium,621
+2024-09-23,George Hall,Tumaini,Female,Dry Cleaning,Medium,221
+2024-09-23,Linda Green,Royals,Male,Duvet/Blanket Cleaning,Medium,314
+2024-09-28,Linda Green,Chuka Town,Female,Dry Cleaning,,642
+2024-09-28,Susan Lee,Ndagani Market,Male,Duvet/Blanket Cleaning,Medium,644
+2024-09-24,Susan Lee,Kibumbumbu,Female,Clothes Cleaning,Large,302
+2024-09-24,Emily Brown,Marine,Male,Dry Cleaning,Small,595
+2024-10-04,Linda Green,Gate A,Female,Dry Cleaning,Small,727
+2024-10-01,Sarah Parker,Royals,Male,Dry Cleaning,Medium,201
+2024-10-01,Lucy Clarke,Ndagani Market,Male,Dry Cleaning,,404
+2024-10-01,John Doe,Kibumbumbu,Male,Dry Cleaning,Small,496
+2024-10-01,Emily Brown,Marine,Male,Clothes Cleaning,Small,776
+2024-10-01,Rachel Green,Ndagani Market,Male,Clothes Cleaning,Large,226
+2024-10-06,James Black,Gate F,Female,Duvet/Blanket Cleaning,,525
+2024-10-12,Sam Harris,Tumaini,Male,Clothes Cleaning,,336
+2024-10-12,Emily Brown,Gate A,Female,Clothes Cleaning,Small,477
+2024-10-12,Emma Scott,Chuka Town,Male,Dry Cleaning,Large,638
+2024-10-12,Rachel Green,Slaughter,Male,Dry Cleaning,Small,529
+2024-10-10,Jane Smith,Chuka Town,Female,Duvet/Blanket Cleaning,Medium,284
+2024-10-10,Sam Harris,Slaughter,Male,Duvet/Blanket Cleaning,Large,604
+2024-10-11,Lucy Clarke,Slaughter,Male,Dry Cleaning,Small,469
+2024-10-11,Michael Johnson,Gate A,Female,Clothes Cleaning,Large,792
+2024-10-11,Nina Roberts,Ndagani Market,Female,Clothes Cleaning,Medium,343
+2024-10-11,Amy Young,Gate A,Male,Dry Cleaning,,640
+2024-10-11,Jane Smith,Royals,Female,Duvet/Blanket Cleaning,,574
+2024-10-18,Amy Young,Gate A,Male,Dry Cleaning,Small,546
+2024-10-18,Anna White,Tumaini,Female,Dry Cleaning,Small,595
+2024-10-18,Tom Wright,Gate F,Male,Clothes Cleaning,Medium,741
+2024-10-16,John Doe,Royals,Male,Duvet/Blanket Cleaning,Large,549
+2024-10-16,Emma Scott,Slaughter,Female,Duvet/Blanket Cleaning,Medium,542
+2024-10-16,Oscar Bell,Lowlands,Female,Duvet/Blanket Cleaning,Large,758
+2024-10-17,Fiona Blake,Tumaini,Female,Duvet/Blanket Cleaning,Small,363
+2024-10-17,Amy Young,Gate F,Male,Dry Cleaning,Medium,257
+2024-10-17,Jane Smith,Kibumbumbu,Male,Duvet/Blanket Cleaning,,763
+2024-10-24,Linda Green,Chuka Town,Female,Clothes Cleaning,Small,361
+2024-10-24,David Wilson,Gate F,Male,Dry Cleaning,Medium,570
+2024-10-22,Amy Young,Chuka Town,Female,Clothes Cleaning,Large,224
+2024-10-22,Linda Green,Ndagani Market,Male,Clothes Cleaning,Large,676
+2024-10-22,Oscar Bell,Gate F,Female,Clothes Cleaning,Medium,396
+2024-10-22,Rachel Green,Gate F,Male,Dry Cleaning,,346
+2024-10-22,Laura King,Slaughter,Female,Dry Cleaning,,523
+2024-10-26,Nina Roberts,Chuka Town,Male,Clothes Cleaning,,224
+2024-10-26,Henry Adams,Gate F,Female,Dry Cleaning,Large,608
+2024-10-26,Oscar Bell,Tumaini,Male,Duvet/Blanket Cleaning,,766
+2024-10-21,Michael Johnson,Royals,Female,Clothes Cleaning,Large,236
+2024-10-21,Nick Hughes,Kibumbumbu,Female,Dry Cleaning,Medium,780
+2024-10-21,Amy Young,Tumaini,Female,Clothes Cleaning,,232
+2024-10-29,Oscar Bell,Marine,Female,Dry Cleaning,Large,364
+2024-10-29,Chris Martin,Chuka Town,Male,Dry Cleaning,Medium,470
+2024-10-29,Emma Scott,Gate F,Female,Dry Cleaning,Medium,504
+2024-10-31,Susan Lee,Marine,Male,Dry Cleaning,,665
+2024-10-31,Lucy Clarke,Royals,Male,Clothes Cleaning,Small,277
+2024-10-31,Fiona Blake,Chuka Town,Male,Clothes Cleaning,,269
+2024-11-01,Chris Martin,Gate F,Male,Clothes Cleaning,,731
+2024-11-01,Anna White,Royals,Male,Dry Cleaning,Large,449
+2024-11-01,Fiona Blake,Kibumbumbu,Male,Clothes Cleaning,Medium,762
+2024-10-30,Nina Roberts,Slaughter,Male,Clothes Cleaning,Small,608
+2024-11-08,Fiona Blake,Tumaini,Male,Duvet/Blanket Cleaning,Small,515
+2024-11-10,Jane Smith,Kibumbumbu,Male,Dry Cleaning,Medium,502
+2024-11-10,Nick Hughes,Tumaini,Male,Dry Cleaning,,604
+2024-11-09,Nina Roberts,Tumaini,Female,Duvet/Blanket Cleaning,Large,211
+2024-11-04,Jane Smith,Slaughter,Male,Clothes Cleaning,Large,242
+2024-11-11,Anna White,Tumaini,Female,Clothes Cleaning,Large,482
+2024-11-11,Lucy Clarke,Slaughter,Female,Duvet/Blanket Cleaning,Small,290
+2024-11-11,Chris Martin,Gate F,Male,Duvet/Blanket Cleaning,,630
+2024-11-11,John Doe,Slaughter,Female,Clothes Cleaning,,331
+2024-11-11,Emma Scott,Slaughter,Male,Duvet/Blanket Cleaning,Medium,769
+2024-11-12,Linda Green,Tumaini,Male,Clothes Cleaning,Small,603
+2024-11-12,Rachel Green,Chuka Town,Female,Clothes Cleaning,,590
+2024-11-12,David Wilson,Marine,Male,Clothes Cleaning,Small,439
+2024-11-12,Laura King,Slaughter,Female,Clothes Cleaning,Small,497
+2024-11-12,Sam Harris,Marine,Female,Duvet/Blanket Cleaning,,301
+2024-11-17,Oscar Bell,Ndagani Market,Female,Dry Cleaning,Small,454
+2024-11-17,Laura King,Ndagani Market,Female,Dry Cleaning,Large,254
+2024-11-18,John Doe,Ndagani Market,Female,Dry Cleaning,,279
+2024-11-18,Henry Adams,Ndagani Market,Male,Duvet/Blanket Cleaning,,297
+2024-11-18,Sarah Parker,Marine,Male,Duvet/Blanket Cleaning,Small,466
+2024-11-19,Emily Brown,Tumaini,Female,Dry Cleaning,,479
+2024-11-24,Linda Green,Ndagani Market,Female,Clothes Cleaning,Large,358
+2024-11-24,George Hall,Kibumbumbu,Male,Clothes Cleaning,Large,725
+2024-11-24,Rachel Green,Gate A,Male,Dry Cleaning,Large,638
+2024-11-24,Emily Brown,Lowlands,Female,Duvet/Blanket Cleaning,,346
+2024-11-20,Anna White,Ndagani Market,Male,Duvet/Blanket Cleaning,,475
+2024-11-27,Jane Smith,Gate F,Male,Clothes Cleaning,,613
+2024-11-27,Rachel Green,Royals,Female,Dry Cleaning,Small,790
+2024-11-27,Nina Roberts,Chuka Town,Male,Clothes Cleaning,Large,482
+2024-11-27,Sam Harris,Royals,Female,Clothes Cleaning,Medium,422
+2024-11-27,Fiona Blake,Gate A,Male,Clothes Cleaning,,599
+2024-11-28,Lucy Clarke,Chuka Town,Female,Dry Cleaning,,638
+2024-11-30,Emily Brown,Lowlands,Male,Clothes Cleaning,Large,615
+2024-11-30,James Black,Royals,Male,Dry Cleaning,,368
+2024-11-30,Amy Young,Gate F,Male,Dry Cleaning,Medium,278
+2024-12-03,Sam Harris,Marine,Male,Duvet/Blanket Cleaning,Small,705
+2024-12-03,John Doe,Gate A,Female,Clothes Cleaning,Medium,352
+2024-12-03,Oscar Bell,Marine,Female,Dry Cleaning,Large,393
+2024-12-03,Linda Green,Gate A,Female,Duvet/Blanket Cleaning,Large,607
+2024-12-03,Henry Adams,Tumaini,Female,Dry Cleaning,,507
+2024-12-08,Amy Young,Ndagani Market,Female,Clothes Cleaning,Large,553
+2024-12-08,Tom Wright,Tumaini,Female,Clothes Cleaning,,350
+2024-12-07,Sarah Parker,Gate A,Male,Duvet/Blanket Cleaning,Medium,603
+2024-12-07,Peter Stone,Kibumbumbu,Male,Duvet/Blanket Cleaning,Medium,733
+2024-12-07,Nina Roberts,Kibumbumbu,Male,Dry Cleaning,,772
+2024-12-07,Emily Brown,Chuka Town,Female,Dry Cleaning,,208
+2024-12-06,Peter Stone,Gate A,Male,Clothes Cleaning,Large,218
+2024-12-06,Anna White,Lowlands,Female,Duvet/Blanket Cleaning,Large,226
+2024-12-14,Michael Johnson,Tumaini,Female,Clothes Cleaning,Small,342
+2024-12-14,Nina Roberts,Gate F,Female,Clothes Cleaning,Large,213
+2024-12-09,David Wilson,Ndagani Market,Female,Clothes Cleaning,Large,479
+2024-12-10,Oscar Bell,Gate F,Female,Clothes Cleaning,,302
+2024-12-10,Anna White,Gate A,Female,Clothes Cleaning,,800
+2024-12-10,Linda Green,Gate F,Male,Clothes Cleaning,Medium,640
+2024-12-10,Nina Roberts,Gate F,Female,Clothes Cleaning,Small,287
+2024-12-10,Michael Johnson,Lowlands,Male,Clothes Cleaning,Large,412
+2024-12-11,John Doe,Royals,Male,Duvet/Blanket Cleaning,Small,558
+2024-12-11,Jane Smith,Kibumbumbu,Male,Clothes Cleaning,,787
+2024-12-11,James Black,Slaughter,Male,Dry Cleaning,Medium,265

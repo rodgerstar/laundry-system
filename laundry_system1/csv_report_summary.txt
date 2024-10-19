@@ -1,0 +1,25 @@
+Customer Data Report
+==================================================
+
+Summary Statistics:
+==================================================
+              Day       Month    Year  Daily Price  Weekly Price  Monthly Price  Total Amount  Number of Times Served
+count  184.000000  184.000000   184.0   184.000000    184.000000     184.000000    184.000000              184.000000
+mean    16.869565    9.864130  2024.0   411.209250    481.564417     500.668712    490.298913                8.239130
+std      8.569507    1.309076     0.0   219.014359    175.954106     165.793705    178.363639                2.902306
+min      1.000000    8.000000  2024.0    19.230769    125.000000     200.000000    200.000000                3.000000
+25%     11.000000    9.000000  2024.0   248.000000    341.250000     363.750000    342.750000                7.000000
+50%     17.000000   10.000000  2024.0   411.209250    481.564417     500.668712    493.000000                8.000000
+75%     24.000000   11.000000  2024.0   578.000000    604.750000     613.500000    632.000000                9.000000
+max     31.000000   12.000000  2024.0   800.000000    800.000000     800.000000    800.000000               16.000000
+==================================================
+
+Sample Data:
+==================================================
+         Date  Day  Month  Year    Customer Name Customer Gender Customer Location                 Service    Size  Daily Price  Weekly Price  Monthly Price  Total Amount  Number of Times Served
+0  2024-08-15   15      8  2024         John Doe            Male           Nairobi            Dry Cleaning     NaN        250.0         500.0          500.0           500                      10
+1  2024-08-15   15      8  2024       Jane Smith          Female            Kisumu  Duvet/Blanket Cleaning   Large        500.0         500.0          500.0           500                       9
+2  2024-08-15   15      8  2024      Emily Brown          Female           Mombasa        Clothes Cleaning  Medium        400.0         400.0          400.0           400                      10
+3  2024-08-16   16      8  2024  Michael Johnson            Male           Nairobi  Duvet/Blanket Cleaning   Small        100.0         200.0          200.0           200                       6
+4  2024-08-16   16      8  2024        Susan Lee          Female              Meru        Clothes Cleaning   Large        600.0         600.0          600.0           600                       5
+==================================================
